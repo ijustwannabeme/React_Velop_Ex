@@ -1,11 +1,10 @@
 import React from "react";
-// import Hello from "./components/Hello";
-// import Wrapper from "./components/Wrapper";
-
 import InputSample from "./components/InputSample";
+import Counter from "./components/Counter";
+import InputSample2 from "./components/InputSample2";
 
 function App() {
-  return <InputSample></InputSample>;
+  return <InputSample2 />;
 }
 
 export default App;
